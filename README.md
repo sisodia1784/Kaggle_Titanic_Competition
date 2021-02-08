@@ -49,6 +49,4 @@ spotify_analysis
 
 ## Results ##
 
-The main findings of the code can be found at the post available here
-
-Wish you all the very Best :thumbsup:
+The main findings of the code can be found at the post available [here](https://data-science-enthusiast.medium.com/kaggle-titanic-competition-exploratory-data-analysis-and-machine-learning-model-building-387029dab30d)
