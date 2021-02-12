@@ -36,7 +36,7 @@ Kaggle_Titanic_Data_Analysis
 
 ## Exploratory Data Analysis ##
 * Importing Data with Pandas
-* Exploring Data through Visualizations with Matplotlib
+* Exploring Data through Visualizations with Matplotlib & Seaborn
 
 ## Data Preprocessing ##
 * Cleaning Data
