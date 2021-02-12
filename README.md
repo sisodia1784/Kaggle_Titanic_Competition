@@ -26,8 +26,8 @@ I wanted to explore the data to understand the factors impacting the survival an
 * [Matplotlib](https://matplotlib.org/)
 
 ## Folder Structure ##
-
-```Kaggle_Titanic_Data_Analysis
+```
+Kaggle_Titanic_Data_Analysis
 |_train.csv             # Train Data for analysis
 |_test.csv              # Test Data for prediction
 |_requirements.txt      # Libraries and versions used
